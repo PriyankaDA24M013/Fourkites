@@ -1,0 +1,8 @@
+# ML model outputs and data
+*.npz
+*.npy
+*.pt
+*.pth
+*.png
+data/
+hessian_out/egs_eoochs.npz
